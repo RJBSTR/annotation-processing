@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="686801bf-0507-4aa3-8e77-ac4104e57739" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jfw-annotations-processors/jfw-annotations-processors.iml" afterPath="$PROJECT_DIR$/jfw-annotations-processors/jfw-annotations-processors.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jfw-annotations/jfw-annotations.iml" afterPath="$PROJECT_DIR$/jfw-annotations/jfw-annotations.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor-testing/processor-testing.iml" afterPath="$PROJECT_DIR$/processor-testing/processor-testing.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processor-utils/processor-utils.iml" afterPath="$PROJECT_DIR$/processor-utils/processor-utils.iml" />
+=======
+    <list default="true" id="2a8342fc-18d6-4eae-b639-3f8d89dba97a" name="Default" comment="Handling inner classes">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> upstream/master
     </list>
     <ignored path="annotation-processing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +36,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="CopierAnnotationProcessorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jfw-annotations-processors/src/test/java/com/progressoft/jfw/annotations/processor/copier/CopierAnnotationProcessorTest.java">
+=======
+      <file leaf-file-name="AnnotatedClassWithInnerClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jfw-annotations-processors/src/test/resources/com/progressoft/jfw/annotations/processor/builder/AnnotatedClassWithInnerClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TargetProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processor-testing/src/main/java/com/progressoft/jfw/annotations/processor/test/TargetProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProcessorElement.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/processor-utils/src/main/java/com/progressoft/jfw/annotations/processor/utils/ProcessorElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JfwProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processor-utils/src/main/java/com/progressoft/jfw/annotations/processor/utils/JfwProcessor.java">
+>>>>>>> upstream/master
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="127" column="66" selection-start-line="127" selection-start-column="66" selection-end-line="127" selection-end-column="66" />
@@ -612,6 +652,31 @@
       <option name="presentableId" value="Default" />
       <updated>1477465848058</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00001" summary="Handling inner classes">
+      <created>1477432343323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1477432343323</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Handling inner classes">
+      <created>1477460338110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477460338110</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Handling inner classes">
+      <created>1477465212288</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1477465212288</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+>>>>>>> upstream/master
     <servers />
   </component>
   <component name="TestHistory">
@@ -680,8 +745,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jfw-annotations-processors/src/test/java/com/progressoft/jfw/annotations/processor/copier/CopierAnnotationProcessorTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="200">
           <caret line="127" column="66" selection-start-line="127" selection-start-column="66" selection-end-line="127" selection-end-column="66" />
+=======
+        <state relative-caret-position="209">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+>>>>>>> upstream/master
           <folding />
         </state>
       </provider>
